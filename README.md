@@ -35,6 +35,3 @@ I will change all of this later to make it dynamic and flexible
 ## Tests
 
   They are not available now
-
-## Contributing
-
