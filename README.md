@@ -12,7 +12,9 @@ A small library for authentication with a user, JWT and socket.io
 ## Usage
 
   ```javascript
-  var ioAuthCheck = require('../middleware/io-auth-check')
+  const io = require('socket.io')(server)
+  const ioAuthCheck = require('io-auth-check')
+  io.use(ioAuthCheck)
   ```
 
 
