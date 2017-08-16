@@ -1,0 +1,24 @@
+{
+  "name": "jwt-socket.io",
+  "version": "0.0.1",
+  "description": "This is a test npm package for socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arn-the-long-beard/jwt-socket.io.git"
+  },
+  "keywords": [
+    "socket.io",
+    "authentication",
+    "middleware"
+  ],
+  "author": "“arn-the-long-beard” <arn.menant@gmail.com> (https://github.com/arn-the-long-beard)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arn-the-long-beard/jwt-socket.io/issues"
+  },
+  "homepage": "https://github.com/arn-the-long-beard/jwt-socket.io#readme"
+}
